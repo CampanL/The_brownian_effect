@@ -1,0 +1,41 @@
+{ 
+    
+    "grillePain": [
+        
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   400, 317  ,  397, 316  ,  396, 303  ,  422, 303  ,  421, 315  ]
+        } ,
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   444, 28  ,  449, 47  ,  450, 303  ,  180, 2  ,  293, 1  ,  344, 4  ,  419, 14  ,  438, 18  ]
+        } ,
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   50, 316  ,  31, 317  ,  28, 316  ,  0, 97  ,  53, 303  ,  53, 313  ]
+        } ,
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   450, 303  ,  396, 303  ,  20, 25  ,  73, 9  ,  180, 2  ]
+        } ,
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   20, 25  ,  396, 303  ,  53, 303  ,  0, 97  ,  6, 56  ]
+        } ,
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   0, 97  ,  26, 303  ,  4, 303  ]
+        } ,
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   73, 9  ,  20, 25  ,  28, 18  ]
+        }
+    ]
+}

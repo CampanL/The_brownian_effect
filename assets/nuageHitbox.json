@@ -1,0 +1,26 @@
+{ 
+    
+    "player": [
+        
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   38, 29  ,  31, 30  ,  1, 19  ,  10, 8  ,  28, 6  ,  35, 7  ,  42, 16  ,  43, 25  ]
+        } ,
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   1, 19  ,  31, 30  ,  15, 31  ,  6, 31  ,  1, 27  ]
+        } ,
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   10, 8  ,  1, 19  ,  4, 12  ]
+        } ,
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   28, 6  ,  10, 8  ,  20, 5  ]
+        }
+    ]
+}

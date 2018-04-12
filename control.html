@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset='utf-8'>
+	<title>Loan Campan - The Brownian Effect</title>
+  <link rel="icon" href="../../img/favicon.gif" type="image/gif" sizes="16x16">
+  <link rel="stylesheet" type="text/css" href="style/bootstrap.css">
+	<link rel="stylesheet" type="text/css" href="style/style.css">
+</head>
+<body>
+  <div class='container'>
+    <div class="raw fond3">
+    <a href="jeu.html" class="next-button"><img src="img/next.png" class="next"></a>
+    </div>
+  </div>
+  <script>
+    var audio = new Audio('audio/ctrl.ogg'); 
+    audio.addEventListener('ended', function() {
+      this.currentTime = 0;
+      this.play();
+    }, false);
+    audio.play();
+  </script>
+</body>
+</html>

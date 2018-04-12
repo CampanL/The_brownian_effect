@@ -1,0 +1,16 @@
+{ 
+    
+    "player": [
+        
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   38, 14  ,  40, 19  ,  40, 29  ,  38, 30  ,  5, 13  ,  10, 8  ,  17, 5  ,  29, 6  ]
+        } ,
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   2, 21  ,  5, 13  ,  38, 30  ,  4, 30  ,  2, 28  ]
+        }
+    ]
+}

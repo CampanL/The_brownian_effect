@@ -1,0 +1,111 @@
+body
+{
+	background-color: #1c8182;
+}
+
+.fond, .fond2, .fond3, .fond4
+{
+	margin: 50px auto;
+	border:5px solid #1C4756;
+	border-radius: 3px;
+	width:1000px;
+	height: 600px;
+}
+.fond
+{
+	background-image: url(../img/menufinal.png);
+}
+.fond2
+{
+	background-image: url(../img/credits.png);
+}
+.fond3
+{
+	background-image: url(../img/commandes-final.png);
+}
+.fond4
+{
+	background-image: url(../img/panneaufin.png);
+}
+img
+{
+	width: 250px
+}
+.gif
+{
+	width: 75px;
+	margin-top: 105px;
+	margin-left: 385px
+}
+.start
+{
+	margin-top: 130px;
+	margin-left: 263px;
+}
+.credit
+{
+	margin-top: 130px;
+	margin-left: 5px;
+}
+
+.start img, .credit img
+{
+	width: 150px;
+}
+
+.start img:hover, .credit img:hover
+{
+	width: 180px;
+	margin-top: -5px;
+	margin-left: -15px;
+	cursor: pointer;
+}
+.back-button, .next-button
+{
+	position:relative;
+	top: 430px;
+	left: 800px;
+}
+.next, .back
+{
+	width: 150px;
+}
+.next:hover, .back:hover
+{
+	width:180px;
+	margin-left: -15px;
+	margin-top: -7px;
+	cursor: pointer;
+
+}
+.reset
+{
+	margin-left: 355px;
+	margin-top: 210px;
+	margin-bottom: 5px;
+}
+.menu
+{
+	margin-top: 4px;
+	margin-left: 95px;
+}
+.reset:hover
+{
+	width:280px;
+	margin-left: 340px;
+	margin-top: 200px;
+	margin-bottom: 0px;
+	cursor: pointer;
+}
+
+.menu:hover
+{
+	width: 285px;
+	margin-left: 80px;
+	cursor: pointer;
+}
+
+.bouton
+{
+	margin-left:18%;
+}

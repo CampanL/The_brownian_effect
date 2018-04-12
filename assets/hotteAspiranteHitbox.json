@@ -1,0 +1,31 @@
+{ 
+    
+    "hotteAspirante": [
+        
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   198, 27  ,  184, 41  ,  183, 31.5  ,  187, -0.5  ,  200, -1  ]
+        } ,
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   3, 93.5  ,  183, 31.5  ,  184, 41  ,  -0.5, 120  ]
+        } ,
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   186, -0.5  ,  187, -0.5  ,  183, 31.5  ]
+        } ,
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   394, 32.5  ,  382, 37  ,  375, 1  ,  387, -0.5  ]
+        } ,
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   575.5, 122  ,  382, 37  ,  394, 32.5  ,  573, 98  ]
+        }
+    ]
+}

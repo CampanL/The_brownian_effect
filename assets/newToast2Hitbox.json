@@ -1,0 +1,21 @@
+{ 
+    
+    "newToast2": [
+        
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   488, 126  ,  487.5, 51  ,  503.5, 10  ,  613, 0.5  ,  746, 1.5  ,  862.5, 49  ,  856, 126  ]
+        } ,
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   858.5, 31  ,  862.5, 49  ,  746, 1.5  ,  845, 10.5  ]
+        } ,
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   503.5, 10  ,  487.5, 51  ,  493.5, 24  ]
+        }
+    ]
+}

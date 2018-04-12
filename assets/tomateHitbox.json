@@ -1,0 +1,16 @@
+{ 
+    
+    "tomate": [
+        
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   117, 90  ,  115, 126  ,  1, 101  ,  5, 82  ,  20, 61  ,  37, 51  ,  60, 50  ,  93, 55  ]
+        } ,
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   4, 126  ,  1, 101  ,  115, 126  ,  104, 145  ,  87, 158  ,  51, 164  ,  24, 154  ]
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{ 
+    
+    "platformMur": [
+        
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   262, 496  ,  998.5, 597  ,  -0.5, 597  ,  -0.5, 497  ]
+        } ,
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   998.5, 597  ,  262, 496  ,  260, 349  ,  996, 349.5  ]
+        } ,
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   397, -0.5  ,  886, -0.5  ,  886.5, 300  ,  398, 301.5  ]
+        }
+    ]
+}

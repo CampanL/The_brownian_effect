@@ -1,0 +1,30 @@
+{ 
+    
+    "exit": [
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   678, 597  ,  195, 596  ,  195, 250  ,  678, 250  ]
+        } ,
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   678, 597  ,  1000, 700  ,  0, 700  ,  0, 596  ]
+        } ,
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   1000, 700  ,  678, 597  ,  1000, 597  ]
+        } ,
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   0, 47  ,  678, 47  ,  195, 193  ,  0, 193  ]
+        } ,
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   195, 203  ,  195, 193  ,  678, 47  ,  678, 203  ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{ 
+    
+    "book": [
+        
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   0, 63  ,  4, 58  ,  79, 57  ,  84, 61  ,  351, 397  ,  0, 391  ]
+        } ,
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   184, 32  ,  84, 61  ,  84, 9  ,  91, 1  ,  176, 0  ,  183, 10  ]
+        } ,
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   275, 82  ,  184, 32  ,  189, 28  ,  270, 29  ,  274, 34  ]
+        } ,
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   275, 82  ,  351, 397  ,  84, 61  ,  184, 32  ]
+        } ,
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   350, 84  ,  351, 397  ,  275, 82  ,  347, 81  ]
+        }
+    ]
+}
